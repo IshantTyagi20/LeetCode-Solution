@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
