@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
