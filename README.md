@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
