@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
