@@ -1,27 +1,30 @@
-int get_value(char c) {
-    if (c == 'I') return 1;
-    if (c == 'V') return 5;
-    if (c == 'X') return 10;
-    if (c == 'L') return 50;
-    if (c == 'C') return 100;
-    if (c == 'D') return 500;
-    if (c == 'M') return 1000;
-    return 0;
-}
-
-int romanToInt(char * s) {
-    int total = 0;
-    for (int i = 0; s[i] != '\0'; i++) {
+int romanToInt(char* s) {
+    int i;
+    int num = 0;
+    for(i=0 ; s[i]!='\0' ; i++){
+        int a=0;
+        int b=0;
+        if(s[i]=='I')a=1;
+        if(s[i]=='V')a=5;
+        if(s[i]=='X')a=10;
+        if(s[i]=='L')a=50;
+        if(s[i]=='C')a=100;
+        if(s[i]=='D')a=500;
+        if(s[i]=='M')a=1000;
         
-        int current = get_value(s[i]);
-        int next = get_value(s[i + 1]);
-        if (current < next) {
-            total = total - current;
-        } 
-        else {
-            total = total + current;
+        if(s[i+1]=='V')b=5;
+        if(s[i+1]=='X')b=10;
+        if(s[i+1]=='L')b=50;
+        if(s[i+1]=='C')b=100;
+        if(s[i+1]=='D')b=500;
+        if(s[i+1]=='M')b=1000;
+
+        if(a<b){
+            num-=a;
+        }else{
+            num+=a;
         }
+
     }
-    
-    return total;
+    return num;
 }
