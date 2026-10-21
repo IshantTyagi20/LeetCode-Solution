@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/IshantTyagi20/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
